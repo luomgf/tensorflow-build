@@ -1,12 +1,13 @@
 # tensorflow-build
 tensorflow build binary . ,suport SSE4.1、SSE4.2、AVX、AVX2、FMA,ver:v1.14.0-rc1
 
-# mac,Tf-v1.14.0-rc1
+# mac,tf-v1.14.0-rc1
+##  config
 | tf | Java | Bazel | python | numpy| Mac |
 | --- | --- | --- | --- | --- | --- |
 | Tf-v1.14.0-rc1 | jdk8 | 0.25.2 | 3.6.3 |1.16|macOs Mojave 10.14.6,intel i5,16G,intel 650|
 
-# requirement.txt 
+## requirement.txt 
 ```
 absl-py==0.7.1
 astor==0.8.0
@@ -30,7 +31,14 @@ Werkzeug==0.15.5
 wrapt==1.11.2
 ```
 
-# build process
-time:12h
-step:17000
-
+## build process
+### time
+```
+INFO: Elapsed time: 15058.232s, Critical Path: 302.71s
+INFO: 15504 processes: 15504 local.
+INFO: Build completed successfully, 15898 total actions
+```
+### end flag
+```
+[18,663 / 18,670] 4 actions running
+```
