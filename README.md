@@ -29,3 +29,8 @@ termcolor==1.1.0
 Werkzeug==0.15.5
 wrapt==1.11.2
 ```
+
+# build process
+time:12h
+step:17000
+
