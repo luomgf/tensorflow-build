@@ -1,6 +1,8 @@
 # tensorflow-build
 tensorflow build binary . ,suport SSE4.1、SSE4.2、AVX、AVX2、FMA,ver:v1.14.0-rc1
 
+[toc]
+
 # mac,tf-v1.14.0-rc1
 ##  config
 | tf | Java | Bazel | python | numpy| Mac |
