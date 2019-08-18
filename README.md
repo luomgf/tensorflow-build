@@ -7,7 +7,7 @@ tensorflow build binary . ,suport SSE4.1、SSE4.2、AVX、AVX2、FMA,ver:v1.14.0
 ##  config
 | tf | Java | Bazel | python | numpy| Mac |download|
 | --- | --- | --- | --- | --- | --- | --- |
-| Tf-v1.14.0-rc1 | jdk8 | 0.25.2 | 3.6.3 |1.16|macOs Mojave 10.14.6,intel i5,16G,intel 650|[download](https://github.com/luomgf/tensorflow-build/blob/master/tensorflow-1.14.0rc1-cp36-cp36m-macosx_10_6_intel.whl)|
+| Tf-v1.14.0-rc1 | jdk8 | 0.25.2 | 3.6.3 |1.16|macOs Mojave 10.14.6,intel i5,16G,intel 650|[download](https://media.githubusercontent.com/media/luomgf/tensorflow-build/master/tensorflow-1.14.0rc1-cp36-cp36m-macosx_10_6_intel.whl)|
 
 ## requirement.txt 
 ```
