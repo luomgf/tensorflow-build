@@ -26,8 +26,6 @@ protobuf==3.9.1
 PyYAML==5.1.2
 scipy==1.3.1
 six==1.12.0
-tensorboard==1.13.1
-tensorflow-estimator==1.14.0
 termcolor==1.1.0
 Werkzeug==0.15.5
 wrapt==1.11.2
