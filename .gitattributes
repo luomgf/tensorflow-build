@@ -1,3 +1,4 @@
 tensorflow-1.14.0rc1-cp36-cp36m-macosx_10_6_intel.whl filter=lfs diff=lfs merge=lfs -text
 tensorflow-2.0.0b1-cp36-cp36m-macosx_10_6_intel.whl filter=lfs diff=lfs merge=lfs -text
 tensorflow-1.4.0rc1-cp36-cp36m-macosx_10_6_intel.whl filter=lfs diff=lfs merge=lfs -text
+tensorflow-1.1.0rc1-cp36-cp36m-macosx_10_6_intel.whl filter=lfs diff=lfs merge=lfs -text
