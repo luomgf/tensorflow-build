@@ -1,5 +1,5 @@
 # tensorflow-build
-tensorflow build binary . ,suport SSE4.1、SSE4.2、AVX、AVX2、FMA,ver:v1.14.0-rc1
+tensorflow build binary for MacOs . ,suport SSE4.1、SSE4.2、AVX、AVX2、FMA,ver:v1.14.0-rc1
 
 [toc]
 
